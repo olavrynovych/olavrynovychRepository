@@ -6,7 +6,6 @@
  * To change this template use File | Settings | File Templates.
  */
 import java.util.Scanner;
-import java.util.Arrays;
 public class HomeTask1 {
     public static void main(String[] args) {
         System.out.println("Choose number of task.\n 1. Adding arrays. \n 2. Merge without duplicates. \n 3. Inner Join. \n 4. Outer Join.");
